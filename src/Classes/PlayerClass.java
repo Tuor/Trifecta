@@ -19,7 +19,7 @@ public class PlayerClass {
 	public int dex;
 	
 	//3-16 str
-	public int str;
+	public static int str;
 	
 	//Map<SkillName, Skill Object>
 	private Map<String,Skill> skills;

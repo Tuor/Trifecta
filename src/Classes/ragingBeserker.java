@@ -7,5 +7,10 @@ public class ragingBeserker extends PlayerClass {{
 	speed = 2;
 	dex = 3;
 	str = 12;
+	
+	int Rage(String attackname){
+		
+		return damage;
+	}
 }
 }
